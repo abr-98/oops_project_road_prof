@@ -10,6 +10,9 @@ We will need the eigen/dense header file.
 
 you can use https://eigen.tuxfamily.org/dox/GettingStarted.html for further documentation.
 
+Data.csv is an example table formed from the csv files in csv_docu.
 
+
+project_test_3.cpp is the final executed code.
 
 
