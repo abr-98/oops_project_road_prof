@@ -100,6 +100,7 @@ int main()
 {
   i=1;
   record_data();
+  
   return 0;
 
 }
